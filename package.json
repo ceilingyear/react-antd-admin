@@ -1,18 +1,17 @@
 {
-  "name": "@nh/react-admin",
-  "version": "1.0.0",
+  "name": "react-antd-admin",
+  "version": "1.0.1",
   "description": "一个基于antd UI框架开源的后台管理系统框架,支持动态路由,in18 国际化,Echarts,权限管理,密码加密保存",
-  "private": false,
-  "author": "njh",
+  "author": "ceilingyear",
   "license": "ISC",
   "keywords": [
-    "@nh/react-admin",
+    "react-antd-admin",
     "admin",
     "react"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/ceilingyear/react-antd-admin"
+    "url": "git+https://github.com/ceilingyear/react-antd-admin"
   },
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
