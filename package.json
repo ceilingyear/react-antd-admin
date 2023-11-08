@@ -1,0 +1,85 @@
+{
+  "name": "@nh/react-admin",
+  "version": "1.0.0",
+  "description": "一个基于antd UI框架开源的后台管理系统框架,支持动态路由,in18 国际化,Echarts,权限管理,密码加密保存",
+  "private": false,
+  "author": "njh",
+  "license": "ISC",
+  "keywords": [
+    "@nh/react-admin",
+    "admin",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/ceilingyear/react-antd-admin"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.29",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-react": "^1.0.6",
+    "antd": "^5.4.7",
+    "axios": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "echarts-for-react": "^3.0.2",
+    "i18next": "^23.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.3.1",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "product": "vite preview",
+    "eject": "react-scripts eject",
+    "prettier": "prettier --write ."
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.0.0-alpha.9",
+    "@types/crypto-js": "^4.1.1",
+    "@types/styled-components": "^5.1.26",
+    "@typescript-eslint/eslint-plugin": "^5.59.5",
+    "@typescript-eslint/parser": "^5.59.5",
+    "@vitejs/plugin-react": "^4.1.1",
+    "eslint": "^8.40.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "2.8.8",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.2.2",
+    "styled-components": "^5.3.10",
+    "vite": "^4.5.0"
+  }
+}
