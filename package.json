@@ -65,7 +65,6 @@
     ]
   },
   "devDependencies": {
-    "@craco/craco": "^7.0.0-alpha.9",
     "@types/crypto-js": "^4.1.1",
     "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^5.59.5",
