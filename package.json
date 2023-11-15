@@ -1,13 +1,16 @@
 {
   "name": "react-antd-admin",
-  "version": "1.0.1",
-  "description": "一个基于antd UI框架开源的后台管理系统框架,支持动态路由,in18 国际化,Echarts,权限管理,密码加密保存",
+  "version": "1.0.2",
+  "description": "一个基于antd UI,Typescript框架开源的后台管理系统框架,支持动态路由,in18 国际化,Echarts,权限管理,密码加密保存",
   "author": "ceilingyear",
   "license": "ISC",
   "keywords": [
-    "react-antd-admin",
+    "typescript",
+    "ts",
+    "antd",
     "admin",
-    "react"
+    "react",
+    "react-antd-admin"
   ],
   "repository": {
     "type": "git",
