@@ -5,12 +5,12 @@
   "author": "ceilingyear",
   "license": "ISC",
   "keywords": [
-    "typescript",
-    "ts",
-    "antd",
     "admin",
     "react",
-    "react-antd-admin"
+    "react-antd-admin",
+    "typescript",
+    "ts",
+    "antd"
   ],
   "repository": {
     "type": "git",
